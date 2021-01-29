@@ -1,11 +1,11 @@
 # How to run our code
-download processing from here: https://processing.org/download/ extract the tar folder to your computer.
+Download processing from here: https://processing.org/download/ extract the tar folder to your computer.
 
-download your prefered python editor, for example https://www.jetbrains.com/pycharm/download/#section=windows
+Download your prefered python editor, for example https://www.jetbrains.com/pycharm/download/#section=windows
 
-clone the repository to your computer. open processing_code.pde, press ok. in the python code, we want to create a txt file at the processing folder where the code is, so copy the path of the processing folder and put on line 2 under base_dir, and than run the code.
+Clone the repository to your computer. open processing_code.pde, press ok. in the python code, we want to create a txt file at the processing folder where the code is, so copy the path of the processing folder and put on line 2 under base_dir, and than run the code.
 
-go to processing_code, go to Sketch->import library->add library and search for: "Shapes 3D" -> install and for "Video Export" -> install. now run the code, a video should be created to the processing_code folder.
+Go to processing_code, go to Sketch->import library->add library and search for: "Shapes 3D" -> install and for "Video Export" -> install. now run the code, a video should be created to the processing_code folder.
 
 Software that simulates the behaviour of systems written in the Beacon Calculus. bcs is under development by the Boemo Group at the University of Cambridge.
 
