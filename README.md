@@ -1,4 +1,4 @@
-# how to run our code
+# How to run our code
 download processing from here: https://processing.org/download/ extract the tar folder to your computer.
 
 download your prefered python editor, for example https://www.jetbrains.com/pycharm/download/#section=windows
@@ -35,7 +35,7 @@ Replication begins at sites on a chromosome called origins of replication (ORI),
 
 The DNA replication is a stochastic process and that's why the beacon calculus issuited for it; the difference in behavior between simulations mirrors the heterogeneity between replicating cells, and communication via beacons enables origins and forks to keep track of which chromosomal positions have been replicated.
 
-
+![alt text](https://camo.githubusercontent.com/cf5b7fc4d9410988ef0cd53e41e1a8f5c0d70a87dd38a2ed6ffdbde4e75542b2/68747470733a2f2f7777772e62696f727869762e6f72672f636f6e74656e742f62696f727869762f6561726c792f323031392f30332f31362f3537393032392f46322e6c617267652e6a70673f77696474683d383030266865696768743d363030266361726f7573656c3d31)
 
 In the above code we can see the behavior of the replication. We define 3 processes: FR – fork right with parameter as position, FL – fork left with parameter as position, ORI – the origin of the replication which has 3 parameters: – the position of the chromosome, fire – firing rate and – the licensing probability. The length of the chromosome is , and is between 1 to L. We define all possible ORI of known origin locations on S, to be working in parallel.
 
